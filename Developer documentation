@@ -1,0 +1,32 @@
+To get the source code of the DIY store WeChat mini program in GitHub, you can follow these steps:
+ Open the GitHub page of the DIY store WeChat mini program;
+ Find the repository containing the source code on the page and copy the URL of the repository;
+ Open a terminal or command line tool on your local computer and use the git clone command to clone the code repository locally;
+ For example, to clone the DIY store WeChat mini program to the local computer, you can execute the following command:
+ Copy the code
+ https://github.com/xaidd/DIY-shop-source-code/blob/main/sourcecode
+ If the source code of the DIY store WeChat Mini Program spans multiple repositories or uses submodules, you can follow these steps:
+ Before cloning a repository, make sure you have installed and configured the git client tools;
+ Open the repository's GitHub page and look for the URL address of a submodule or other related repository;
+ Add the URL addresses of all relevant repositories to the .gitmodules file;
+ Clone the code repository and its related submodules using git commands like this:
+ Copy the code
+ https://github.com/xaidd/DIY-shop-source-code/blob/main/sourcecode
+ This will recursively clone the master repository and any related submodules and repositories in it.
+ Layout of the directory structure. What various directories (folders) contain, and where to find source files, tests, documents, data files, etc.
+ 
+ Open the terminal or command line interface and switch to the root directory of the DIY store WeChat mini program;
+ Enter the build command and execute: In general, the build command of the DIY store WeChat mini program should be explained in the README.md file. Common build commands may include the name of the build tool and some specific parameters. After entering the build command, the code will automatically go through compilation, packaging and other operations to generate executable code or installation package;
+ If the build is successful, you can run the compiled code or installation package to test and verify that the application functions properly.
+ For example, assuming that the DIY store WeChat mini program is using the webpack building tool, then you can perform the build operation by following these steps:
+ Open the terminal or command line tool and switch to the root directory of the DIY store WeChat mini program;
+ Run a command like the following to install the required npm dependencies:
+ Copy the code
+ https://github.com/xaidd/DIY-shop-source-code/blob/main/sourcecode
+ $ npm install
+ Create a configuration file in the root directory, such as webpack.config.js, and make the necessary configurations;
+ Run the command like this to build a DIY store WeChat mini program using webpack：
+  Copy the code
+  https://github.com/xaidd/DIY-shop-source-code/blob/main/sourcecode
+ $ webpack
+ If the build is successful, you can test and verify that the application is functioning properly.
