@@ -6,3 +6,5 @@ Installing the software is easy, just search for "DIY store" in the wechat mini 
 Before installation, ensure that the wechat client has been installed and is in the latest version. There are no other prerequisites or version-specific restrictions.
 Running the software is as simple as opening the wechat client and launching the DIY store wechat mini program.
 Using the software is also simple. Users can purchase the desired item by browsing the item list, searching for the item name or keyword, selecting and adding the item to the cart, and paying online. Users can also book DIY services by filling out an online booking form. Consumers can view order history and track order status at any time.
+
+URL:https://github.com/xaidd/DIY-shop-source-code/blob/main/sourcecode
