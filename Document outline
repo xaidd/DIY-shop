@@ -1,0 +1,25 @@
+ Background: As the interest in DIY technology and handmade art increases, more and more consumers want to buy parts and materials from stores to conduct DIY projects at home. However, due to the limited choice and expensive price of traditional stores, many consumers often feel inconvenient or dissatisfied.
+In order to solve this problem, we decided to develop the DIY store WeChat small program to provide consumers with a more convenient and affordable way to shop.
+
+Objective: The DIY Store WeChat applet aims to provide consumers with a centralized platform, where they can easily buy the DIY parts and materials they need. The target users of this small program are those who love DIY and manual art. They have the following characteristics:
+
+Focus on value and quality, but also have a certain DIY experience and skills;
+ Hope to conduct self-fulfilling projects at home to improve personal skills and enjoy DIY fun;
+ Hope to enjoy a convenient, preferential shopping experience, and have a lot of choices.
+In short, the goal of DIY store WeChat small program is to become the preferred shopping platform for consumers to carry out DIY projects, providing them with the most abundant, most affordable and most convenient shopping experience.
+
+Test strategy
+Test the automation infrastructure and CI services
+3.1 Select the test framework
+3.2 Install the test frame
+3.3 Write the test case
+3.4 Set up the CI service
+3.5 Integrated version control
+3.6 Write the documentation
+Test case execution and result analysis
+Further improvement plan
+ Here are my improvements:
+ Modified the format of the document to make it easier to read.
+ An outline is added at the top of the document, allowing the reader to quickly understand the document structure.
+ Some revisions of the language of the document have improved its clarity and accuracy.
+A "Further Improvement Plan" section was added so that this document can be further refined in the future.
